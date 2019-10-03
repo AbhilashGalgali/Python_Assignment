@@ -1,0 +1,26 @@
+Abhilashs-MBP:Python Assignment abhilashgalgali$ sudo python Exercise5.py 
+Aircraft #  1  has been istantiated
+Initial X-Coord: 64
+Initial X-Coord: 67
+Final X-Coord: 3
+Final X-Coord: 79
+Aircraft #  2  has been istantiated
+Initial X-Coord: 67
+Initial X-Coord: 12
+Final X-Coord: 17
+Final X-Coord: 8
+Aircraft #  3  has been istantiated
+Initial X-Coord: 71
+Initial X-Coord: 77
+Final X-Coord: 72
+Final X-Coord: 66
+Aircraft #  4  has been istantiated
+Initial X-Coord: 23
+Initial X-Coord: 84
+Final X-Coord: 83
+Final X-Coord: 2
+Aircraft #  5  has been istantiated
+Initial X-Coord: 99
+Initial X-Coord: 65
+Final X-Coord: 83
+Final X-Coord: 44
